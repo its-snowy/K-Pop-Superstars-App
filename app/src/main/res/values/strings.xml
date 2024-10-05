@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">K-Pop Superstars</string>
+    <string name="share_button_description">Share this K-pop Superstar!</string>
+    <string name="k_pop_superstars">K-Pop Superstars</string>
+    <string name="my_name">Muhammad Mirza Kurniawan</string>
+    <string name="my_dicoding_email">2210631170085@student.unsika.ac.id</string>
+    <string name="about">About</string>
+    <string name="k_pop_idol_description">K-pop Idol Description</string>
+
+    <string-array name="data_name">
+        <item>Dahyun (TWICE)</item>
+        <item>Irene (Red Velvet)</item>
+        <item>Jisoo (BLACKPINK)</item>
+        <item>Karina (aespa)</item>
+        <item>Lisa (BLACKPINK)</item>
+        <item>Kim Minju (Ex-IZ*ONE)</item>
+        <item>Nancy (MOMOLAND)</item>
+        <item>Suzy (Solo Artist)</item>
+        <item>Tzuyu (TWICE)</item>
+        <item>Winter (aespa)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dahyun, a member of the popular K-pop group TWICE, is known for her vibrant personality and unique charms. Born on May 28, 1998, in Seongnam, South Korea, Dahyun has been captivating fans since TWICE\'s debut in 2015. Her "eagle dance" became an internet sensation, showcasing her quirky and lovable nature. As TWICE\'s main rapper, Dahyun brings a distinct flavor to the group\'s performances with her sharp and clear rap delivery. Beyond her musical talents, she\'s a variety show favorite, often praised for her quick wit and entertaining reactions. Dahyun\'s bright smile and positive energy have earned her the nickname "Tofu" among fans, reflecting her pure and soft image. Despite her cheerful exterior, Dahyun is also known for her professionalism and dedication to improving her skills, making her a well-rounded and respected idol in the K-pop industry.</item>
+        <item>Irene, the charismatic leader of Red Velvet, is a multi-talented artist who has made a significant impact in the K-pop industry. Born Bae Joo-hyun on March 29, 1991, in Daegu, South Korea, Irene debuted with Red Velvet in 2014 and quickly became known for her exceptional beauty and powerful stage presence. As the group\'s leader and main rapper, she brings a unique blend of charisma and skill to their performances. Irene\'s influence extends beyond music; she\'s a sought-after model and brand ambassador, gracing the covers of fashion magazines and fronting campaigns for luxury brands. Her venture into acting, including her leading role in the film "Double Patty," showcases her versatility as an entertainer. Despite her glamorous image, Irene is known for her introverted and thoughtful nature off-stage, often surprising fans with her quiet intelligence and dry sense of humor. Her journey from a trainee to one of K-pop\'s most recognizable faces is a testament to her hard work and dedication, inspiring many aspiring idols.</item>
+        <item>Jisoo, BLACKPINK\'s eldest member, is a multifaceted talent born on January 3, 1995, in Gunpo, South Korea. Known for her unique husky vocal tone and stunning visuals, Jisoo brings a distinctive charm to BLACKPINK\'s music. As the group\'s lead vocalist and visual, she\'s captivated audiences worldwide with her stable live performances and elegant stage presence. Beyond her musical career, Jisoo has made significant strides in acting, starring in the lead role of the popular K-drama "Snowdrop" (2021-2022), which showcased her versatility as an entertainer. Her fashion sense has also garnered attention, leading to her becoming a global ambassador for luxury brands like Dior. Jisoo\'s wit and humor shine through in variety shows, where she often displays her 4D personality, endearing her to fans and fellow celebrities alike. Despite being in one of the world\'s biggest girl groups, Jisoo maintains a down-to-earth personality and is known for her strong bond with her members, often acting as a pillar of support within BLACKPINK.</item>
+        <item>Karina, born Yu Ji-min on April 11, 2000, is the charismatic leader and main dancer of aespa, a groundbreaking K-pop group known for its futuristic concept. Debuting in 2020, Karina quickly established herself as an all-rounder, excelling in dancing, singing, and rapping. Her powerful and precise dance moves, combined with her captivating stage presence, have made her performances a highlight of aespa\'s shows. Karina\'s striking visuals have also garnered attention, leading to numerous brand endorsements and fashion magazine features. Despite her cool and chic image on stage, fans admire her for her soft-spoken and caring personality off-stage, particularly in her interactions with her group members. As aespa\'s leader, Karina has shown remarkable poise and maturity, guiding the group through their rapid rise to fame. Her dedication to perfecting her craft and her ability to embody aespa\'s unique concept have made her a standout figure in the new generation of K-pop idols.</item>
+        <item>Lisa, born Lalisa Manoban on March 27, 1997, in Buriram, Thailand, is BLACKPINK\'s main dancer and rapper, known for her electrifying performances and global influence. Debuting with BLACKPINK in 2016, Lisa quickly became a fan favorite due to her exceptional dance skills, charismatic rap delivery, and unique visual appeal. Her dance videos on YouTube have garnered millions of views, cementing her status as one of K-pop\'s most talented dancers. In 2021, Lisa made her solo debut with the single album "LALISA," breaking numerous records and showcasing her versatility as an artist. Beyond music, she\'s a fashion icon, serving as a global ambassador for luxury brands and gracing the covers of international magazines. Lisa\'s multicultural background (Thai-born in a K-pop group) has helped her connect with a diverse global fanbase, making her one of the most followed K-pop idols on social media. Known for her bright personality and infectious laugh, Lisa brings positive energy to her group and is admired for her hard work, determination, and the way she fearlessly pursues her dreams.</item>
+        <item>Kim Minju, born February 5, 2001, in Seoul, South Korea, first rose to fame as a member of the project girl group IZ*ONE, formed through the Mnet survival show "Produce 48" in 2018. Known for her elegant visuals and gentle demeanor, Minju captured hearts with her gradual improvement and determination during her time with IZ*ONE. Initially more reserved, she blossomed into a confident performer, taking on roles as a vocalist and dancer within the group. After IZ*ONE\'s disbandment in 2021, Minju chose to pursue an acting career, leveraging her natural charm and the skills she developed as an idol. She has since appeared in several dramas, including "Tempted" and "Imitation," showcasing her versatility as an entertainer. Minju\'s transition from idol to actress has been met with support from her fans, who admire her for continuing to challenge herself and grow in new directions. Her journey from a shy trainee to a blossoming actress serves as an inspiration to many, demonstrating the power of perseverance and self-improvement.</item>
+        <item>Nancy, born Nancy Jewel McDonie on April 13, 2000, in Daegu, South Korea, is a standout member of the girl group MOMOLAND. With her mixed Korean and American heritage, Nancy brings a unique charm to the K-pop scene. She first gained public attention as a contestant on the survival show "Finding Momoland" in 2016, which led to her debut with the group. Nancy is known for her doll-like visuals, often praised for her big eyes and distinctive features, which have earned her the nickname "American beauty" in Korea. As one of MOMOLAND\'s main vocalists and visual centers, she contributes significantly to the group\'s energetic performances with her stable vocals and captivating stage presence. Beyond her group activities, Nancy has ventured into acting, appearing in web dramas and variety shows, showcasing her versatility as an entertainer. Her fluency in both Korean and English has made her a valuable asset in MOMOLAND\'s international promotions, helping the group connect with a global audience. Nancy\'s journey in the K-pop industry highlights the increasing diversity within the field, as she continues to break stereotypes and inspire fans with her talent and unique background.</item>
+        <item>Suzy, born Bae Su-ji on October 10, 1994, in Gwangju, South Korea, is a multifaceted entertainer who has successfully transitioned from idol to respected actress and solo artist. Debuting as a member of the girl group miss A in 2010, Suzy quickly rose to prominence, earning the title "Nation\'s First Love" due to her innocent charm and widespread popularity. Her breakthrough in acting came with the 2012 film "Architecture 101," which established her as a credible actress. Since then, Suzy has starred in numerous hit dramas and films, including "While You Were Sleeping" and "Vagabond," showcasing her growth and versatility as an actress. As a solo artist, she has released several successful singles and EPs, demonstrating her musical talents beyond her group activities. Suzy\'s influence extends to the fashion and beauty industries, where she\'s a sought-after model and brand ambassador. Known for her professionalism, down-to-earth personality, and dedication to her craft, Suzy has maintained her popularity and respect within the industry for over a decade. Her successful navigation of the transition from idol to actress serves as a blueprint for many aspiring entertainers in Korea.</item>
+        <item>Tzuyu, born Chou Tzuyu on June 14, 1999, in Tainan, Taiwan, is TWICE\'s visual and maknae (youngest member), known for her striking beauty and continuous growth as a performer. Debuting with TWICE in 2015 through the survival show "Sixteen," Tzuyu quickly became known as one of K-pop\'s top visuals, often ranking high in beauty polls and garnering attention for her elegant and classic features. Despite joining TWICE with less training than some of her members, Tzuyu has shown remarkable improvement in her singing and dancing skills, earning praise for her dedication and hard work. Her gentle personality and quiet determination have endeared her to fans, who affectionately call her "yoda" due to her wise-beyond-years demeanor. As TWICE\'s only Taiwanese member, Tzuyu has played a crucial role in the group\'s popularity in Chinese-speaking markets. Off-stage, she\'s known for her love of animals and her support for various charitable causes. Tzuyu\'s journey from a shy foreign trainee to a confident, integral member of one of K-pop\'s biggest girl groups is a testament to her resilience and the global nature of the K-pop industry.</item>
+        <item>Winter, born Kim Min-jeong on January 1, 2001, is a main vocalist of aespa, known for her unique vocal color and captivating stage presence. Debuting with aespa in 2020, Winter quickly gained attention for her stable live performances and her ability to embody the group\'s futuristic concept. Her vocal tone, described as clear and slightly husky, brings a distinctive flavor to aespa\'s music, particularly shining in their high-energy dance tracks. Winter\'s duality on and off stage has become a topic of interest among fans; while she exudes a cool, almost ice princess-like charisma during performances, she\'s known for her playful and sometimes quirky personality behind the scenes. Her fashion sense, often a mix of cute and edgy styles, has also garnered attention, making her a rising fashion icon. As one of the main faces of aespa, Winter has been involved in various solo activities, including magazine shoots and variety show appearances, where she continues to showcase different facets of her personality. Her commitment to perfecting her craft and her ability to adapt to aespa\'s innovative concept have positioned her as a standout artist in the fourth generation of K-pop idols.</item>
+    </string-array>
+
+    <integer-array name="data_debut_year">
+        <item>2015</item>
+        <item>2014</item>
+        <item>2016</item>
+        <item>2020</item>
+        <item>2016</item>
+        <item>2018</item>
+        <item>2016</item>
+        <item>2010</item>
+        <item>2015</item>
+        <item>2020</item>
+    </integer-array>
+
+    <string-array name="data_fan_club">
+        <item>Once</item>
+        <item>ReVeluv</item>
+        <item>Blinks</item>
+        <item>MY</item>
+        <item>Blinks</item>
+        <item>WIZ*ONE</item>
+        <item>Merry-Go-Round</item>
+        <item>Fans of Suzy</item>
+        <item>Once</item>
+        <item>MY</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Pop, Hip Hop</item>
+        <item>Pop &amp; R&amp;B</item>
+        <item>Pop, Hip Hop</item>
+        <item>Pop, Electronic</item>
+        <item>Pop, Hip Hop</item>
+        <item>Pop</item>
+        <item>Pop, Dance</item>
+        <item>Pop, Ballad</item>
+        <item>Pop</item>
+        <item>Pop, Electronic</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/dahyun</item>
+        <item>@drawable/irene</item>
+        <item>@drawable/jisoo</item>
+        <item>@drawable/karina</item>
+        <item>@drawable/lisa</item>
+        <item>@drawable/minju</item>
+        <item>@drawable/nancy</item>
+        <item>@drawable/suzy</item>
+        <item>@drawable/tzuyu</item>
+        <item>@drawable/winter</item>
+    </array>
+</resources>
